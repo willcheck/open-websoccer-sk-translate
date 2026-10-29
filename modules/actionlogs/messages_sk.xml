@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE messages SYSTEM "../messages.dtd">
+<messages>
+	<message id="activities_tab">Aktivita</message>
+	<message id="activities_none_available_for_user">Používateľ v poslednom čase nevykonal žiadnu špeciálnu aktivitu.</message>
+	<message id="activitylog_box_title">Aktivita používateľov</message>
+	
+	<message id="activitylog_save-formation">Používateľ %s odoslal svoju taktiku.</message>
+	<message id="activitylog_select-captain">Používateľ %s vybral nového kapitána tímu.</message>
+	<message id="activitylog_extend-contract">Používateľ %s predĺžil zmluvu s hráčom.</message>
+	<message id="activitylog_save-tickets">Používateľ %s nastavil nové ceny vstupeniek.</message>
+	<message id="activitylog_sell-player">Používateľ %s ponúka jedného zo svojich hráčov na prestupovom trhu.</message>
+	<message id="activitylog_transfer-bid">Používateľ %s zvýšil ponuku na prestupovom trhu.</message>
+	<message id="activitylog_extend-stadium">Používateľ %s zadal objednávku na vylepšenie svojho štadióna.</message>
+	<message id="activitylog_upgrade-stadium">Používateľ %s objednal údržbu svojho štadióna.</message>
+	<message id="activitylog_execute-training">Používateľ %s odtrénoval svoj tím.</message>
+	<message id="activitylog_book-camp">Používateľ %s rezervoval tréningový kemp.</message>
+	<message id="activitylog_create-youthmatch-request">Používateľ %s zverejnil žiadosť o dorastenecký zápas.</message>
+	<message id="activitylog_sell-youthplayer">Používateľ %s ponúka na predaj jedného zo svojich dorastencov.</message>
+	<message id="activitylog_directtransfer-offer">Používateľ %s predložil ponuku na priamy prestup hráča.</message>
+	<message id="activitylog_report-absence">Používateľ %s nahlásil svoju neprítomnosť.</message>
+	<message id="activitylog_return-from-absence">Používateľ %s je znova späť.</message>
+</messages>
